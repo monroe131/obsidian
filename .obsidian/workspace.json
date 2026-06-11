@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "b60a32346b26d0f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "08690dd47ba616bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e943632ccfac5f62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "056f50c99ee2f262",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ec77b7d78607f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92ac67500ab07e76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "eecf61bb9bbb6e40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c518dfb3cb6c2094",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b3c2260f5ec0837",
+    "type": "split",
+    "children": [
+      {
+        "id": "803cb279d4b77dec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a01c59cc31a9068f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "git 的反向链接列表"
+            }
+          },
+          {
+            "id": "1e4680ebe972aabf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "5b8fc656b8948e95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "df472086f721d048",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6a165cf4633ecab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "税务师学习/税务师先学章节.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "税务师先学章节 的大纲"
+            }
+          },
+          {
+            "id": "8ab00ec922e39279",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "be8befc3a2c06aa7",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-view",
+              "state": {},
+              "icon": "opencode-logo",
+              "title": "OpenCode"
+            }
+          },
+          {
+            "id": "3716f06c3f461601",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 990.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "simple-mind-map:新建思维导图": false,
+      "opencode-obsidian:OpenCode": false
+    }
+  },
+  "active": "e943632ccfac5f62",
+  "lastOpenFiles": [
+    "git.md",
+    "README.md",
+    "obsidian-skills",
+    "2026-06-09.md",
+    "待办.md",
+    "未命名.md",
+    "想去的地方.md",
+    "英语绘本.md",
+    "税务师学习/印花税讲义.md",
+    "税务师学习/印花税-思维导图.md",
+    "税务师学习/思维导图 2026-05-25 10.38.03.smm.md",
+    "税务师学习/MindMap 2026-05-25 10.38.03.smm.md",
+    "税务师学习/税务师先学章节.md",
+    "2026-W23.md",
+    "未命名.canvas",
+    "obsidian使用方法.md",
+    "未命名.base",
+    "MindMap 2026-06-02 17.39.01.smm.md",
+    "MindMap 2026-05-25 17.47.40.smm.md",
+    "MindMap 2026-05-25 10.38.03.smm.md",
+    "未命名 1.base",
+    "提升.md",
+    "2026-07-15.md",
+    "语文学习/未命名/通识教育.md",
+    "新建文本文档.txt",
+    "2026-05-27.md",
+    "语文学习/未命名",
+    "语文学习",
+    "税务师学习"
+  ]
+}
